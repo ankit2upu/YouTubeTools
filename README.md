@@ -3,10 +3,8 @@
 A powerful **YouTube utility web application** built using **Spring Boot + Thymeleaf + Tailwind CSS** to help content creators optimize, analyze, and enhance their YouTube videos.
 
 ---
-## 🌐 Live Demo [![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://youtubetools-6u2l.onrender.com/)
-
-🚀 Try the application live:
-👉 https://youtubetools-6u2l.onrender.com/
+## 🌐 Live Demo
+  👉 [![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://youtubetools-6u2l.onrender.com/)
 
 ---
 
