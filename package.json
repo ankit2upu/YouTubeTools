@@ -1,0 +1,25 @@
+{
+  "name": "youtubetools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+ 
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "init": "^0.1.2",
+    "npx": "^10.2.2",
+    "tailwindcss": "^4.2.1"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "^4.2.1"
+  },
+  "scripts": {
+  "build:css": "tailwindcss -i ./src/main/resources/static/css/input.css -o ./src/main/resources/static/css/output.css",
+  "watch:css": "tailwindcss -i ./src/main/resources/static/css/input.css -o ./src/main/resources/static/css/output.css --watch"
+}
+
+
+}
