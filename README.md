@@ -3,6 +3,22 @@
 A powerful **YouTube utility web application** built using **Spring Boot + Thymeleaf + Tailwind CSS** to help content creators optimize, analyze, and enhance their YouTube videos.
 
 ---
+## 🌐 Live Demo
+
+🚀 Try the application live:
+👉 https://youtubetools-6u2l.onrender.com/
+
+---
+
+### 💡 Features Available in Live Demo:
+
+* SEO Tag Generator
+* Thumbnail Preview
+* Video Data Insights
+
+---
+
+⚠️ Note: API usage may be limited due to YouTube quota restrictions.
 
 ## 🚀 Features
 
