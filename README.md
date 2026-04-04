@@ -7,7 +7,7 @@ A powerful **YouTube utility web application** built using **Spring Boot + Thyme
   👉 [![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://youtubetools-6u2l.onrender.com/)
   
 ## 🎥 Application Demo
-  👉 [Watch Video](assets/demo.mp4)
+  👉 [Watch Video](demo.mp4)
 ---
 
 ### 💡 Features Available in Live Demo:
