@@ -139,13 +139,6 @@ mvn spring-boot:run
 * `/video` → Video Data
 
 ---
-
-## 📸 Screenshots (Optional)
-
-*Add your UI screenshots here to make your GitHub more attractive*
-
----
-
 ## 📈 Future Improvements
 
 * React Frontend Integration
@@ -172,7 +165,3 @@ This project demonstrates:
 * Real-world problem solving
 
 ---
-
-## 📜 License
-
-MIT License
